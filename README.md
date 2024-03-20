@@ -1,4 +1,4 @@
-### Hi there my name is Thomasa
+
 <h1>Hi, I'm Thomasa, an <a href="https://linkedin.com/in/Thomasa">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
