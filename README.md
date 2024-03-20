@@ -7,7 +7,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Thomasa696/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Thomasa696/post-install-config)
   
-  -  <b>Microsoft Azure</b> 
+- <b>Microsoft Azure</b> 
   
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Thomasa696/azure-network-protocols) 
   - 
