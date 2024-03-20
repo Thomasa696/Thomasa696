@@ -7,7 +7,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Thomasa696/osticket-prereqs)
  
 - <b>Microsoft Azure</b>
-  - [VPN Setup and Useage (Proton VPN)](https://github.com/Thomasa696/configure-ad)
+  - [VPN Setup and Usage (Proton VPN)](https://github.com/Thomasa696/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Thomasa696/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
